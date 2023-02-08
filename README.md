@@ -1,3 +1,2 @@
 # Hotel Elysees Regencia Paris Champs Elysées
-Rooms and Apartments Website
-A small-scale business website to book their apartments easily.
+Boutique Hôtel 4 étoiles à deux pas des Champs Elysées - Réservez maintenant !
