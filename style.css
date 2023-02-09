@@ -4,7 +4,7 @@
 @import url('https://fonts.googleapis.com/css?family=Indie+Flower');
 
 *{
-	background: #a4e1f5;
+	background: #348eac;
 	margin: 0 auto;
 	padding: 0 auto;
 }
@@ -104,7 +104,7 @@ a{
 
 /* Service */
 .services{
-	background: #16aac4;
+	background: #348eac;
 	text-align: center;
 	display: grid;
 	grid: 30px / auto auto auto;
